@@ -20,7 +20,7 @@ feature_row:
     alt: "Cheeky image 1"
     title: "Placeholder 1"
     excerpt: ":("
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Steven.png
     alt: "Cheeky image 2"
     title: "Cub of the week"
     excerpt: "He's a while mean cub so he is"
