@@ -12,25 +12,25 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Raugahahahahah"
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Leading innovations in artifical intelligence, algorithmically generated machine learning devices and productivity management. '
 feature_row:
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
+    alt: "Cheeky image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: ":("
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Cheeky image 2"
+    title: "Cub of the week"
+    excerpt: "He's a while mean cub so he is"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Cheeky image 3"
+    excerpt: ":)"
 ---
 
 {% include feature_row id="intro" type="center" %}
