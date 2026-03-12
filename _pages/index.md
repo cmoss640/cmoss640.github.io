@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Charlie Moss"
 layout: splash
 permalink: /
 header:
@@ -12,18 +12,18 @@ header:
       target: "_blank"
 
 
-excerpt: "Raugahahahahah"
+excerpt: "Game Developer"
 intro: 
   - excerpt: 'Leading innovations in artifical intelligence, algorithmically generated machine learning devices and productivity management. '
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "Cheeky image 1"
-    title: "Placeholder 1"
+    title: "Cheeky image 1"
     excerpt: ":("
   - image_path: /assets/images/Steven.png
     alt: "Cheeky image 2"
-    title: "Cub of the week"
-    excerpt: "He's a while mean cub so he is"
+    title: "Meet the CEO"
+    excerpt: "Mark Stevens, CEO of MossCorp"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
