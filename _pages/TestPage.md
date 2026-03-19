@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Test Page"
 layout: default
 permalink: /testpage/
 ---
