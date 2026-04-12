@@ -17,20 +17,20 @@ intro:
   - excerpt: 'Leading innovations in artifical intelligence, algorithmically generated machine learning devices and productivity management. '
 feature_row:
   - image_path: /assets/images/placeholder.png
-    alt: "Cheeky image 1"
-    title: "Cheeky image 1"
-    excerpt: ":("
+    alt: "Debt Buddy game project"
+    title: "Debt Buddy"
+    excerpt: "Take care of your adorable, money dependent buddy as you fight to keep him happy in this short survival pet sim!"
   - image_path: /assets/images/Steven.png
-    alt: "Cheeky image 2"
-    title: "Meet the CEO"
-    excerpt: "Mark Stevens, CEO of MossCorp"
+    alt: "Quiet Town game project"
+    title: "Quiet Town"
+    excerpt: "Explore a quiet, socluded town with strange architecture and a mysterious dense fog in this 3D environment showcase."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "All Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
-    title: "Cheeky image 3"
-    excerpt: ":)"
+    title: "Randal the Vandal"
+    excerpt: "Trash as much of the neighborhood as you can before the storm hits in this procedurally generated physics platformer!"
 ---
 
 {% include feature_row id="intro" type="center" %}
