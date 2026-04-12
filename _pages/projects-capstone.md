@@ -1,5 +1,5 @@
 ---
-title: "Capstone"
+title: "Randal the Vandal"
 layout: single
 permalink: /projects/capstone/
 sidebar:
