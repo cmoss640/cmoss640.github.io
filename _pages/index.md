@@ -16,18 +16,18 @@ excerpt: "Game Developer"
 intro: 
   - excerpt: 'Leading innovations in artifical intelligence, algorithmically generated machine learning devices and productivity management. '
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/PlaceholderWeb.png
     alt: "Debt Buddy game project"
     title: "Debt Buddy"
     excerpt: "Take care of your adorable, money dependent buddy as you fight to keep him happy in this short survival pet sim!"
-  - image_path: /assets/images/Steven.png
+  - image_path: /assets/images/PlaceholderWeb.png
     alt: "Quiet Town game project"
     title: "Quiet Town"
     excerpt: "Explore a quiet, socluded town with strange architecture and a mysterious dense fog in this 3D environment showcase."
     url: "#test-link"
     btn_label: "All Projects"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/PlaceholderWeb.png
     alt: "placeholder image 4"
     title: "Randal the Vandal"
     excerpt: "Trash as much of the neighborhood as you can before the storm hits in this procedurally generated physics platformer!"
