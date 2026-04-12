@@ -1,5 +1,5 @@
 ---
-title: "Game Jam"
+title: "Debt Buddy"
 layout: single
 permalink: /projects/game-jam/
 sidebar:
