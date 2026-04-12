@@ -14,7 +14,7 @@ header:
 
 excerpt: "Game Developer"
 intro: 
-  - excerpt: 'Hi, I'm Charlie. I am a game developer with a strong passion for both 3D and 2D games design, environments and storytelling. Below are some of the projects I have worked on, check them out!'
+  - excerpt: "Hi, I'm Charlie. I am a game developer with a strong passion for both 3D and 2D games design, environments and storytelling. Below are some of the projects I have worked on, check them out!"
 feature_row:
   - image_path: /assets/images/Game1.png
     alt: "Debt Buddy game project"
