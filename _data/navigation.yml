@@ -5,10 +5,14 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Debt Buddy"
+        url: /projects/debtbuddy/
+      - title: "Randal the Vandal"
+        url: /projects/randal/
+      - title: "Quiet Town"
+        url: /projects/quiettown/
+      - title: "Kackle Kastle"
+        url: /projects/kacklekastle/
   - title: "Pages"
     url: /pages/
     children:
