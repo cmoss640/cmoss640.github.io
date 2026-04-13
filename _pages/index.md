@@ -24,7 +24,7 @@ feature_row:
     alt: "Quiet Town game project"
     title: "Quiet Town"
     excerpt: "Explore a quiet, socluded town with strange architecture and a mysterious dense fog in this 3D environment showcase."
-    url: "#test-link"
+    url: "/projects/"
     btn_label: "All Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/Game3.png
