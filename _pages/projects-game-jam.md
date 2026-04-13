@@ -21,4 +21,5 @@ gallery_gameart:
 
 ---
 {% include gallery id="gallery_gameart" layout="third" thumb_height="180px" %}
+{% include video id="RgpFGJc27PMzVoMH" provider="youtube" %}
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
