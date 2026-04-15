@@ -1,4 +1,5 @@
 ---
+classes; wide
 title: "Projects"
 layout: single
 permalink: /projects/
