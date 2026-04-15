@@ -24,8 +24,10 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-  - title: "Test"
-    url: /testpage/
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Contact"
+    url: /contact/
   
  
 
