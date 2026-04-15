@@ -28,6 +28,16 @@ gallery_gameart:
     alt: "Art 2"
     title: "Final polish"
     caption: "Final polish"
+  - url: /assets/GameJamScreenshot5.png
+    image_path: /assets/GameJamScreenshot5.png
+    alt: "Art 2"
+    title: "Final polish"
+    caption: "Final polish"
+  - url: /assets/GameJamScreenshot6.png
+    image_path: /assets/GameJamScreenshot6.png
+    alt: "Art 2"
+    title: "Final polish"
+    caption: "Final polish"
 
 ---
 {% include gallery id="gallery_gameart" layout="third" thumb_height="140px" %}
