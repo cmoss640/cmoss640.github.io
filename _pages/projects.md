@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-classes; wide
+classes: wide
 ---
 
 Welcome to the projects page. This is where you can list your game projects.
