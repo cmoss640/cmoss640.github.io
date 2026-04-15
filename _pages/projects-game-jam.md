@@ -41,8 +41,10 @@ gallery_gameart:
 
 ---
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="ZwJpMUOl5zDwvC9J" provider="youtube" %}
+{% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
 Debt buddy was a game jam project developed in one week. It is a 2D point and click resource management stress simulator in which you have to take care of a small creature inside of a mobiole app you name and take care of, while also managing your real life expenses and job. The game is a comedic jab at purchases and bad consumer practices used by heavily disliked mobile apps, forcing the player to manage their money to both feed themselves and buy food for their little mobile companion.
 - **Try it out**
 <a href="https://cmossgames.itch.io/my-crippling-debt-buddy" target="_blank" rel="noopener noreferrer">here (Itch.io link).</a>
+**How was this project made?**\
+**What skills did I develop?**\
