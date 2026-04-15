@@ -40,6 +40,7 @@ gallery_gameart:
     caption: "Final polish"
 
 ---
+**Origin:** Pixel's Game Jam 2026
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
 {% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
