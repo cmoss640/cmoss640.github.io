@@ -8,23 +8,23 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/GameJamScreenshot1.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/GameJamScreenshot1.png
+    image_path: /assets/GameJamScreenshot1.png
     alt: "Art 1"
     title: "Style pass"
     caption: "Style pass"
-  - url: /assets/images/GameJamScreenshot2.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/GameJamScreenshot2.png
+    image_path: /assets/GameJamScreenshot2.png
     alt: "Art 2"
     title: "Final polish"
     caption: "Final polish"
-  - url: /assets/images/GameJamScreenshot3.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/GameJamScreenshot3.png
+    image_path: /assets/GameJamScreenshot3.png
     alt: "Art 2"
     title: "Final polish"
     caption: "Final polish"
-  - url: /assets/images/GameJamScreenshot4.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/GameJamScreenshot4.png
+    image_path: /assets/GameJamScreenshot4.png
     alt: "Art 2"
     title: "Final polish"
     caption: "Final polish"
