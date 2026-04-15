@@ -1,7 +1,7 @@
 ---
 title: "Debt Buddy"
 layout: single
-permalink: /projects/game-jam/
+permalink: /projects/debtbuddyoverview/
 sidebar:
   title: "Projects"
   nav:
