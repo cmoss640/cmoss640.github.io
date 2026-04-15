@@ -47,4 +47,10 @@ Debt buddy was a game jam project developed in one week. It is a 2D point and cl
 - **Try it out**
 <a href="https://cmossgames.itch.io/my-crippling-debt-buddy" target="_blank" rel="noopener noreferrer">here (Itch.io link).</a>\
 **How was this project made?**\
+I developed this project using the Godot game engine. The art was hand drawn over the course of a few days, giving the game a unique charm and style. 
 **What skills did I develop?**\
+The development of this project furthered my skills in:
+- 2D physics
+- Drag and drop systems
+- Particles
+- Animations
