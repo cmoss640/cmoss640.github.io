@@ -45,7 +45,7 @@ gallery_gameart:
 **About this project:**\
 Debt buddy was a game jam project developed in one week. It is a 2D point and click resource management stress simulator in which you have to take care of a small creature inside of a mobiole app you name and take care of, while also managing your real life expenses and job. The game is a comedic jab at purchases and bad consumer practices used by heavily disliked mobile apps, forcing the player to manage their money to both feed themselves and buy food for their little mobile companion.
 - **Try it out**
-<a href="https://cmossgames.itch.io/my-crippling-debt-buddy" target="_blank" rel="noopener noreferrer">here (Itch.io link).</a>\  
+<a href="https://cmossgames.itch.io/my-crippling-debt-buddy" target="_blank" rel="noopener noreferrer">here (Itch.io link).</a>  
 
 **How was this project made?**\
 I developed this project using the Godot game engine. The art was hand drawn over the course of a few days, giving the game a unique charm and style.  
