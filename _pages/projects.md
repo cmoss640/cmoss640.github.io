@@ -6,6 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+classes: wide
 
 sidebar2:
   title: "Prototypes"
