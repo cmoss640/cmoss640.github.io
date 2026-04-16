@@ -13,17 +13,6 @@ main:
         url: /projects/quiettown/
       - title: "Kackle Kastle"
         url: /projects/kacklekastle/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
   - title: "About Me"
     url: /aboutme/
   - title: "Contact"
