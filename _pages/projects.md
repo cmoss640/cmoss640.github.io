@@ -10,7 +10,7 @@ sidebar:
 sidebar:
   title: "Prototypes"
   nav:
-    - projects
+    - prototypes
 classes: wide
 ---
 
