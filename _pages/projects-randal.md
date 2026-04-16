@@ -48,6 +48,7 @@ Randal the Vandal was a project built in my first year of university. This game 
 
 **How was this project made?**\
 I developed this project using the Unity game engine. The art was created by converting concept skethes of buildings and characters into pixel art sprites. The game physics and animations were fine tuned over a long period of time to make destruction feel satisfying and weighty.\
+
 **What skills did I develop?**\
 The development of this project furthered my skills in:
 - 2D physics
