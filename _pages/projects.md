@@ -9,10 +9,10 @@ sidebar:
 classes: wide
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+**Welcome to my projects page!**\
+Here you can take a look at some of my completed projects, prototypes and more.
 
-You can use this page to show a reel of all projects and then have a separate page for each project.
-
+{% include figure image_path="/assets/images/Collage.png" alt="Collage of some of my projects" %}
 
 
 
