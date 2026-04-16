@@ -47,7 +47,7 @@ gallery_gameart:
 Randal the Vandal was a project built in my first year of university. This game is a sidescrolling platformer, with a procedurally generated world woth plenty of objects to interact with. The player jumps from building to building, destroying physics based objects to build up their property damage value while being pursued by a murder of crows. Objects destroyed can drop additional hammer pickups, but the amount you have is finite, encouraging players to throw their hammers sparingly instead of throwing wildly. The player is encouraged to run fast due to their limited time, creating an engaging, fast paced gameplay loop.
 
 **How was this project made?**\
-I developed this project using the Unity game engine. The art was created by converting concept skethes of buildings and characters into pixel art sprites. The game physics and animations were fine tuned over a long period of time to make destruction feel satisfying and weighty.\
+I developed this project using the Unity game engine. The art was created by converting concept skethes of buildings and characters into pixel art sprites. The game physics and animations were fine tuned over a long period of time to make destruction feel satisfying and weighty.
 
 **What skills did I develop?**\
 The development of this project furthered my skills in:
