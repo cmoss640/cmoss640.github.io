@@ -30,7 +30,9 @@ projects:
     url: /projects/quiettownoverview/
   - title: "Kackle Kastle"
     url: /projects/kacklekastle/
-  - title: "**Test**"
+prototypes:
+  - title: "Tet"
+  
 
 # Sidebar menu for the Pages page
 pages:
