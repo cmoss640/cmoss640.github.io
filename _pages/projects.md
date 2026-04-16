@@ -3,10 +3,10 @@ title: "Projects"
 layout: single
 permalink: /projects/
 sidebar:
-  - title: "Projects"
+  title: "Projects"
   nav:
     - projects
-  - title: "Protoypes"
+  title: "Protoypes"
   nav:
     - prototypes
 classes: wide
