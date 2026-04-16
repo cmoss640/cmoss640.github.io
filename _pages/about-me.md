@@ -16,7 +16,7 @@ skills:
     years: 2
   - name: "Blender"
     icon: "fa-solid fa-cube"
-    badges: ["Game Mechanics", "Levels", "UI"]
+    badges: ["Exterior architecture", "Interior architecture", "Environments"]
     text: "Designed levels, mechanics, procedural generation."
     years: 1
   - name: "Game Design"
@@ -28,7 +28,9 @@ skills:
 
 # About Me
 
-My name is Charlie Moss, and I am a game designer and developer from Northern Ireland. I have taught myself and received teaching from Ulster University on a wide variety of skills in the games field.
+My name is Charlie Moss, and I am a game designer and developer from Northern Ireland. I have taught myself and received teaching from Ulster University on a wide variety of skills in the games field. I have a strong passion for 3D modelling and environment design and enjoy creating immersive yet surreal worlds to play in. 
+
+I enjoy a wide variety of game genres to both make and play, ranging from roguelikes, survival horror, exploration and physics based games. 
 
 ___
 
