@@ -10,6 +10,9 @@ classes: wide
 ---
 
 **Welcome to my projects page!**\
+
+___
+
 Here you can take a look at some of my completed projects, prototypes and more.
 
 {% include figure image_path="/assets/images/Collage.png" alt="Collage of some of my projects" %}
