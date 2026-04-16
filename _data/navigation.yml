@@ -13,10 +13,14 @@ main:
         url: /projects/quiettown/
       - title: "Kackle Kastle"
         url: /projects/kacklekastle/
-  - title: "About Me"
-    url: /aboutme/
-  - title: "Contact"
-    url: /contact/
+      - title: "Rock Paper Scissors"
+        url: /prototypes/rps
+      - title: "3D AI"
+        url: /prototypes/3dai
+      - title: "About Me"
+        url: /aboutme/
+      - title: "Contact"
+        url: /contact/
   
  
 
