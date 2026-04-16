@@ -34,11 +34,7 @@ projects:
     url: /projects/quiettownoverview/
   - title: "Kackle Kastle"
     url: /projects/kacklekastle/
-prototypes:
-  - title: "Rock Paper Scissors"
-    url: /prototypes/rps
-  - title: "3D AI"
-    url: /prototypes/3dai
+  - title: "**Test**"
 
 # Sidebar menu for the Pages page
 pages:
