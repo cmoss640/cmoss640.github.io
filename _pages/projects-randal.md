@@ -8,36 +8,36 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/GameJamScreenshot1.png
-    image_path: /assets/GameJamScreenshot1.png
-    alt: "Art 1"
-    title: "Style pass"
-    caption: "Style pass"
-  - url: /assets/GameJamScreenshot2.png
-    image_path: /assets/GameJamScreenshot2.png
-    alt: "Art 2"
-    title: "Final polish"
-    caption: "Final polish"
-  - url: /assets/GameJamScreenshot3.png
-    image_path: /assets/GameJamScreenshot3.png
-    alt: "Art 2"
-    title: "Final polish"
-    caption: "Final polish"
-  - url: /assets/GameJamScreenshot4.png
-    image_path: /assets/GameJamScreenshot4.png
-    alt: "Art 2"
-    title: "Final polish"
-    caption: "Final polish"
-  - url: /assets/GameJamScreenshot5.png
-    image_path: /assets/GameJamScreenshot5.png
-    alt: "Art 2"
-    title: "Final polish"
-    caption: "Final polish"
-  - url: /assets/GameJamScreenshot6.png
-    image_path: /assets/GameJamScreenshot6.png
-    alt: "Art 2"
-    title: "Final polish"
-    caption: "Final polish"
+  - url: /assets/images/RandalScreenshot1.png
+    image_path: /assets/images/RandalScreenshot1.png
+    alt: "Showcasing a part of the randomly generated level"
+    title: "Procedural generation"
+    caption: "Procedural generation"
+  - url: /assets/images/RandalScreenshot2.png
+    image_path: /assets/images/RandalScreenshot2.png
+    alt: "Showcasing the in-game lighting"
+    title: "Lighting"
+    caption: "Lighting"
+  - url: /assets/images/RandalScreenshot3.png
+    image_path: /assets/images/RandalScreenshot3.png
+    alt: "Showcasing rain physics bouncing off of a roof"
+    title: "Rain physics"
+    caption: "Rain physics"
+  - url: /assets/images/RandalScreenshot4.png
+    image_path: /assets/images/RandalScreenshot4.png
+    alt: "Showcasing player getting a bonus for juggling"
+    title: "AAAAAAAAAAA"
+    caption: "Juggle bonus"
+  - url: /assets/images/RandalScreenshot5.png
+    image_path: /assets/images/RandalScreenshot5.png
+    alt: "Showcasing the player throwing an object at a bird"
+    title: "Player disturbs a crow"
+    caption: "Interactive animals"
+  - url: /assets/images/RandalScreenshot6.png
+    image_path: /assets/images/RandalScreenshot6.png
+    alt: "Showcasing the different layers of the background"
+    title: "Parallax background"
+    caption: "Parallax background"
 
 ---
 **Origin:** Ulster University Year 1 Semester 1
