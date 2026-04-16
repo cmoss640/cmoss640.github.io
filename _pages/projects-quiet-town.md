@@ -10,34 +10,34 @@ gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/TownScreenshot1.png
     image_path: /assets/images/TownScreenshot1.png
-    alt: "Showcasing a part of the randomly generated level"
-    title: "Chunk of the procedural level"
-    caption: "Random generation"
+    alt: "Showcasing a part of the world"
+    title: "The city location in the distance"
+    caption: "The Big City"
   - url: /assets/images/TownScreenshot2.png
     image_path: /assets/images/TownScreenshot2.png
-    alt: "Showcasing the in-game lighting"
-    title: "Moonlight casting down on the world"
-    caption: "Lighting"
+    alt: "Showcasing the abandoned lake house area"
+    title: "The sinking house of the lake"
+    caption: "The Lake"
   - url: /assets/images/TownScreenshot3.png
     image_path: /assets/images/TownScreenshot3.png
-    alt: "Showcasing rain physics bouncing off of a roof"
-    title: "Rain physics bouncing off of a roof"
-    caption: "Rain physics"
+    alt: "Showcasing the churhc area in the world"
+    title: "The distant church from the forest"
+    caption: "The Church"
   - url: /assets/images/TownScreenshot4.png
     image_path: /assets/images/TownScreenshot4.png
     alt: "Showcasing player getting a bonus for juggling"
-    title: "Player gets bonus points for consecutively juggling an object mid-air"
-    caption: "Juggle bonus"
+    title: "The visitor's center with a mysterious figure"
+    caption: "Visitor's Center"
   - url: /assets/images/TownScreenshot5.png
     image_path: /assets/images/TownScreenshot5.png
-    alt: "Showcasing the player throwing an object at a bird"
-    title: "Player disturbs a crow"
-    caption: "Interactive animals"
+    alt: "Showcasing the distant amusment park area"
+    title: "A distant amusement park"
+    caption: "The Funfair"
   - url: /assets/images/TownScreenshot6.png
     image_path: /assets/images/TownScreenshot6.png
-    alt: "Showcasing the different layers of the background"
-    title: "Different layers of houses, trees and decorations"
-    caption: "Parallax background"
+    alt: "Showcasing the pathed hillside"
+    title: "The hillside area with fencing"
+    caption: "The Hillside"
 
 ---
 **Origin:** Ulster University Year 1 Semester 1
