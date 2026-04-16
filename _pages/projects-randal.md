@@ -11,22 +11,22 @@ gallery_gameart:
   - url: /assets/images/RandalScreenshot1.png
     image_path: /assets/images/RandalScreenshot1.png
     alt: "Showcasing a part of the randomly generated level"
-    title: "Procedural generation"
-    caption: "Procedural generation"
+    title: "Chunk of the procedural level"
+    caption: "Random generation"
   - url: /assets/images/RandalScreenshot2.png
     image_path: /assets/images/RandalScreenshot2.png
     alt: "Showcasing the in-game lighting"
-    title: "Lighting"
+    title: "Moonlight casting down on the world"
     caption: "Lighting"
   - url: /assets/images/RandalScreenshot3.png
     image_path: /assets/images/RandalScreenshot3.png
     alt: "Showcasing rain physics bouncing off of a roof"
-    title: "Rain physics"
+    title: "Rain physics bouncing off of a roof"
     caption: "Rain physics"
   - url: /assets/images/RandalScreenshot4.png
     image_path: /assets/images/RandalScreenshot4.png
     alt: "Showcasing player getting a bonus for juggling"
-    title: "AAAAAAAAAAA"
+    title: "Player gets bonus points for consecutively juggling an object mid-air"
     caption: "Juggle bonus"
   - url: /assets/images/RandalScreenshot5.png
     image_path: /assets/images/RandalScreenshot5.png
@@ -36,7 +36,7 @@ gallery_gameart:
   - url: /assets/images/RandalScreenshot6.png
     image_path: /assets/images/RandalScreenshot6.png
     alt: "Showcasing the different layers of the background"
-    title: "Parallax background"
+    title: "Different layers of houses, trees and decorations"
     caption: "Parallax background"
 
 ---
