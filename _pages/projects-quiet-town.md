@@ -8,33 +8,33 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/RandalScreenshot1.png
-    image_path: /assets/images/RandalScreenshot1.png
+  - url: /assets/images/TownScreenshot1.png
+    image_path: /assets/images/TownScreenshot1.png
     alt: "Showcasing a part of the randomly generated level"
     title: "Chunk of the procedural level"
     caption: "Random generation"
-  - url: /assets/images/RandalScreenshot2.png
-    image_path: /assets/images/RandalScreenshot2.png
+  - url: /assets/images/TownScreenshot2.png
+    image_path: /assets/images/TownScreenshot2.png
     alt: "Showcasing the in-game lighting"
     title: "Moonlight casting down on the world"
     caption: "Lighting"
-  - url: /assets/images/RandalScreenshot3.png
-    image_path: /assets/images/RandalScreenshot3.png
+  - url: /assets/images/TownScreenshot3.png
+    image_path: /assets/images/TownScreenshot3.png
     alt: "Showcasing rain physics bouncing off of a roof"
     title: "Rain physics bouncing off of a roof"
     caption: "Rain physics"
-  - url: /assets/images/RandalScreenshot4.png
-    image_path: /assets/images/RandalScreenshot4.png
+  - url: /assets/images/TownScreenshot4.png
+    image_path: /assets/images/TownScreenshot4.png
     alt: "Showcasing player getting a bonus for juggling"
     title: "Player gets bonus points for consecutively juggling an object mid-air"
     caption: "Juggle bonus"
-  - url: /assets/images/RandalScreenshot5.png
-    image_path: /assets/images/RandalScreenshot5.png
+  - url: /assets/images/TownScreenshot5.png
+    image_path: /assets/images/TownScreenshot5.png
     alt: "Showcasing the player throwing an object at a bird"
     title: "Player disturbs a crow"
     caption: "Interactive animals"
-  - url: /assets/images/RandalScreenshot6.png
-    image_path: /assets/images/RandalScreenshot6.png
+  - url: /assets/images/TownScreenshot6.png
+    image_path: /assets/images/TownScreenshot6.png
     alt: "Showcasing the different layers of the background"
     title: "Different layers of houses, trees and decorations"
     caption: "Parallax background"
