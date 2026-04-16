@@ -31,8 +31,14 @@ projects:
   - title: "Kackle Kastle"
     url: /projects/kacklekastle/
 prototypes:
-  - title: "Tet"
-  
+  - title: "Debt Buddy"
+    url: /projects/debtbuddyoverview/
+  - title: "Randal the Vandal"
+    url: /projects/randaloverview/
+  - title: "Quiet Town"
+    url: /projects/quiettownoverview/
+  - title: "Kackle Kastle"
+    url: /projects/kacklekastle/
 
 # Sidebar menu for the Pages page
 pages:
