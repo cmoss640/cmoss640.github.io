@@ -34,6 +34,11 @@
       */
       max-height: calc(100vh - #{$nav-height} - 2em);
     }
+     &.sticky2 {
+        overflow-y: auto;
+
+        max-height: calc(100vh - #{$nav-height} - 2em);
+}
   }
 
   @include breakpoint($x-large) {
