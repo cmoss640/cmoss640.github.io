@@ -31,9 +31,9 @@ projects:
   - title: "Kackle Kastle"
     url: /projects/kacklekastle/
 prototypes:
-  - title: Rock Paper Scissors
+  - title: "Rock Paper Scissors"
   url: /prototypes/rps
-  - title: 3D AI
+  - title: "3D AI"
   url: /prototypes/3dai
 
 # Sidebar menu for the Pages page
