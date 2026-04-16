@@ -17,10 +17,10 @@ main:
         url: /prototypes/rps
       - title: "3D AI"
         url: /prototypes/3dai
-      - title: "About Me"
-        url: /aboutme/
-      - title: "Contact"
-        url: /contact/
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Contact"
+    url: /contact/
   
  
 
