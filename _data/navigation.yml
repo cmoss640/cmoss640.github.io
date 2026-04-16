@@ -32,9 +32,9 @@ projects:
     url: /projects/kacklekastle/
 prototypes:
   - title: "Rock Paper Scissors"
-  url: /prototypes/rps
+    url: /prototypes/rps
   - title: "3D AI"
-  url: /prototypes/3dai
+    url: /prototypes/3dai
 
 # Sidebar menu for the Pages page
 pages:
