@@ -1,7 +1,7 @@
-{% if page.sidebar %}
+{% if page.sidebar2 %}
   <div class="sidebar sticky2">
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
+  {% if page.sidebar2 %}
+    {% for s in page.sidebar2 %}
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
@@ -10,8 +10,8 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
+    {% if page.sidebar2.nav %}
+      {% include nav_list nav=page.sidebar2.nav %}
     {% endif %}
   {% endif %}
   </div>
