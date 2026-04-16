@@ -7,7 +7,7 @@ sidebar:
   nav:
     - projects
 
-sidebar:
+sidebar2:
   title: "Prototypes"
   nav:
     - prototypes
