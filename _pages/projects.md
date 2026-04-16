@@ -7,12 +7,6 @@ sidebar:
   nav:
     - projects
 classes: wide
-
-sidebar2:
-  title: "Prototypes"
-  nav:
-    - prototypes
-classes: wide
 ---
 
 **Welcome to my projects page!**\
