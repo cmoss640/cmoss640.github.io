@@ -44,15 +44,14 @@ gallery_gameart:
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
 {% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
-Randal the Vandal was a project built in my first year of university. This game is a sidescrolling platformer, with a procedurally generated world woth plenty of objects to interact with. The player jumps from building to building, destroying physics based objects to build up their property damage value while being pursued by a murder of crows. Objects destroyed can drop additional hammer pickups, but the amount you have is finite, encouraging players to throw their hammers sparingly instead of throwing wildly. The player is encouraged to run fast due to their limited time, creating an engaging, fast paced gameplay loop.
+Quiet Town was a project built in my first year of university. It is a 3D environment test in which I created a full town with a path to each of its interesting locations. The areas were built from concept art I drew beforehand. The town is thick with a dense fog, with disjointed architecture and abandoned houses. Each location tells a story of a town not abandoned, but reserved and socluded. The area is overgrown and dense in foliage. A map is provided to the player, showing the different places they can explore. As the player approaches the central Visitor's Center, they may notice a mysterious figure moving within its walls. This project inspired me to start using *Blender*, and is where I found my love for 3D work and environments.
 
 **How was this project made?**\
-I developed this project using the Unity game engine. The art was created by converting concept skethes of buildings and characters into pixel art sprites. The game physics and animations were fine tuned over a long period of time to make destruction feel satisfying and weighty.
+I developed this project using the Unity game engine. The 3D models were made with Unity ProBuilder and textured using Unity's material system with materials from AmbientCG. I edited the world settings to add glare and other screen effects to enhance immersion.
 
 **What skills did I develop?**\
 The development of this project furthered my skills in:
-- 2D physics
-- Prefab use
-- Particles
-- Procedural generation
-- Instantiation
+- Lighting
+- Environments
+- Modelling
+- Concept art
