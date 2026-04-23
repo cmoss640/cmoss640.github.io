@@ -12,11 +12,11 @@ main:
       - title: "Quiet Town"
         url: /projects/quiettown/
       - title: "Kackle Kastle"
-        url: /projects/kacklekastle/
+        url: /projects/kacklekastleoverview/
       - title: "Caller IDie"
-        url: /projects/calleridie/
+        url: /projects/calleridieoverview/
       - title: "RPS Prototype"
-        url: /projects/rps/
+        url: /projects/rpsoverview/
   - title: "About Me"
     url: /aboutme/
   - title: "Contact"
@@ -33,11 +33,11 @@ projects:
   - title: "Quiet Town"
     url: /projects/quiettownoverview/
   - title: "Kackle Kastle"
-    url: /projects/kacklekastle/
+    url: /projects/kacklekastleoverview/
   - title: "Caller IDie"
-    url: /projects/calleridie
+    url: /projects/calleridieoverview/
   - title: "RPS Prototype"
-    url: /projects/rps
+    url: /projects/rpsoverview/
     
 
 # Sidebar menu for the Pages page
