@@ -14,9 +14,9 @@ main:
       - title: "Kackle Kastle"
         url: /projects/kacklekastle/
       - title: "Caller IDie"
-        url: /projects/calleridie
+        url: /projects/calleridie/
       - title: "RPS Prototype"
-        url: /projects/rps
+        url: /projects/rps/
   - title: "About Me"
     url: /aboutme/
   - title: "Contact"
