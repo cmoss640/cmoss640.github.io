@@ -9,7 +9,7 @@ sidebar:
 classes: wide
 ---
 
-**Welcome to my projects page!**\
+**Welcome to my projects page!**
 
 ___
 
