@@ -18,7 +18,7 @@ skills:
     icon: "fa-solid fa-cube"
     badges: ["Exterior architecture", "Interior architecture", "Environments"]
     text: "Created props, buildings."
-    year: 1
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
