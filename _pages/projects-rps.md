@@ -1,5 +1,5 @@
 ---
-title: "Rock Paper Scissors"
+title: "Rock Paper Scissors Prototype"
 layout: single
 permalink: /projects/rpsoverview/
 sidebar:
@@ -44,15 +44,13 @@ gallery_gameart:
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
 {% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
-Caller IDie is a game jam project created for Ludum Dare 59 "signal". It is a fast paced, intense 3D parkour game where you need to solve puzzles while outrunning and outwitting an endlessly pursuing agent. The Agent is controlled by an AI that adapts to how you traverse the cityscape, learning how you jump and predicting your movement to cut you off and create unexpected scenarios. 
+This Rock Paper Scissors prototype was created in my own time to learn the fundamentals game development and the Godot engine. Play cards randomly drawn into your hand and guess the opponent's choice. Go all in by selecting more of one card type for a bigger reward or bigger loss, or play it safe and only choose one card. Use different items from your backpack to gain the upper hand and twist the rules. 
 
 **How was this project made?**\
-I developed this project in 3 days for Ludum Dare. The game was developed in the Godot engine, the models were made in Blender and the sprites were made in Photoshop. All code and assets were made during the course of the game jam period, and no boilerplate was used.
+I developed this project in 3 weeks using the Godot engine. I had never developed an original game before, and decided to use the Godot engine due to its accessibility, weight and helpful community.
 
 **What skills did I develop?**\
 The development of this project furthered my skills in:
-- Modelling
-- 3D AI
-- Modular development
-- Level design
-- Tutorial design / user experience
+- Game design
+- Game fundamentals
+- Data storing techniques
