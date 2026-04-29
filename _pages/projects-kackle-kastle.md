@@ -55,3 +55,4 @@ The development of this project furthered my skills in:
 - Modular development
 - Character design
 - Animation
+- VFX
