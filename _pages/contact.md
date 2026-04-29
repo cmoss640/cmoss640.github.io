@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  src="https://forms.cloud.microsoft/e/kqCvjeiRYQ"
   height="800"
 %}
