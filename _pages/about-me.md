@@ -7,6 +7,7 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Level/environment Design", "Physics"]
+    style: "color: black;"
     text: "Built multiple university projects and 3D environments."
     years: 1
   - name: "Godot"
