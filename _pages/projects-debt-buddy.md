@@ -12,7 +12,7 @@ gallery_gameart:
     image_path: /assets/GameJamScreenshot1.png
     alt: "Art 1"
     title: "Style pass"
-    caption: "Style pass"
+    caption: ""
   - url: /assets/GameJamScreenshot2.png
     image_path: /assets/GameJamScreenshot2.png
     alt: "Art 2"
