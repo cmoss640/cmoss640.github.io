@@ -27,7 +27,7 @@
           </div>
         {% elsif skill.level_label %}
           <div class="skill-card__meta">
-            <span class="skill-card__meta-label">Level</span>
+            <span class="skill-card__meta-label" style="color: black">Level</span>
             <span class="skill-card__meta-value">{{ skill.level_label }}</span>
           </div>
         {% endif %}
