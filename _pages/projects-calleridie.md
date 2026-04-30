@@ -8,35 +8,35 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/TownScreenshot1.png
-    image_path: /assets/images/TownScreenshot1.png
-    alt: "Showcasing a part of the world"
-    title: "The city location in the distance"
+  - url: /assets/images/CallerScreenshot1.png
+    image_path: /assets/images/CallerScreenshot1.png
+    alt: "Showcasing gameplay"
+    title: "Gameplay 1"
     caption: "The Big City"
-  - url: /assets/images/TownScreenshot2.png
-    image_path: /assets/images/TownScreenshot2.png
-    alt: "Showcasing the abandoned lake house area"
-    title: "The sinking house of the lake"
+  - url: /assets/images/CallerScreenshot2.png
+    image_path: /assets/images/CallerScreenshot2.png
+    alt: "Showcasing gameplay"
+    title: "Gameplay 2"
     caption: "The Lake"
-  - url: /assets/images/TownScreenshot3.png
-    image_path: /assets/images/TownScreenshot3.png
-    alt: "Showcasing the churhc area in the world"
-    title: "The distant church from the forest"
+  - url: /assets/images/CallerScreenshot3.png
+    image_path: /assets/images/CallerScreenshot3.png
+    alt: "Showcasing gameplay"
+    title: "Gameplay 3"
     caption: "The Church"
-  - url: /assets/images/TownScreenshot4.png
-    image_path: /assets/images/TownScreenshot4.png
-    alt: "Showcasing player getting a bonus for juggling"
-    title: "The visitor's center with a mysterious figure"
+  - url: /assets/images/CallerScreenshot4.png
+    image_path: /assets/images/CallerScreenshot4.png
+    alt: "Showcasing gameplay"
+    title: "Gameplay 4"
     caption: "Visitor's Center"
-  - url: /assets/images/TownScreenshot5.png
-    image_path: /assets/images/TownScreenshot5.png
-    alt: "Showcasing the distant amusment park area"
-    title: "A distant amusement park"
+  - url: /assets/images/CallerScreenshot5.png
+    image_path: /assets/images/CallerScreenshot5.png
+    alt: "Showcasing gameplay"
+    title: "Gameplay 5"
     caption: "The Funfair"
-  - url: /assets/images/TownScreenshot6.png
-    image_path: /assets/images/TownScreenshot6.png
+  - url: /assets/images/CallerScreenshot6.png
+    image_path: /assets/images/CallerScreenshot6.png
     alt: "Showcasing the pathed hillside"
-    title: "The hillside area with fencing"
+    title: "Gameplay 6"
     caption: "The Hillside"
 
 ---
