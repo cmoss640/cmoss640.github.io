@@ -12,7 +12,7 @@
         {% if skill.badges %}
           <ul class="skill-card__badges">
             {% for badge in skill.badges %}
-              <li>{{ badge }}</li>
+              <li style="background-color: #9F68A6">{{ badge }}</li>
             {% endfor %}
           </ul>
         {% endif %}
@@ -23,7 +23,7 @@
         {% if skill.years %}
           <div class="skill-card__meta">
             <span class="skill-card__meta-label" style="color: black">Experience</span>
-            <span class="skill-card__meta-value">{{ skill.years }} years</span>
+            <span class="skill-card__meta-value" stle="color: black">{{ skill.years }} years</span>
           </div>
         {% elsif skill.level_label %}
           <div class="skill-card__meta">
