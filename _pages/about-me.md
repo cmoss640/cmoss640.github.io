@@ -32,7 +32,7 @@ My name is Charlie Moss, and I am a game designer and developer from Northern Ir
 
 I enjoy a wide variety of game genres to both make and play, ranging from roguelikes, survival horror, exploration and physics based games. 
 
-___
+
 ## Skills
 
 {% include skills skills=page.skills %}
