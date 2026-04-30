@@ -42,7 +42,6 @@ gallery_gameart:
 ---
 **Origin:** Ulster University Year 1 Semester 1
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
 Quiet Town was a project built in my first year of university. It is a 3D environment test in which I created a full town with a path to each of its interesting locations. The areas were built from concept art I drew beforehand. The town is thick with a dense fog, with disjointed architecture and abandoned houses. Each location tells a story of a town not abandoned, but reserved and socluded. The area is overgrown and dense in foliage. A map is provided to the player, showing the different places they can explore. As the player approaches the central Visitor's Center, they may notice a mysterious figure moving within its walls. This project inspired me to start using *Blender*, and is where I found my love for 3D work and environments.
 
