@@ -8,36 +8,36 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/TownScreenshot1.png
-    image_path: /assets/images/TownScreenshot1.png
-    alt: "Showcasing a part of the world"
-    title: "The city location in the distance"
-    caption: "The Big City"
-  - url: /assets/images/TownScreenshot2.png
-    image_path: /assets/images/TownScreenshot2.png
-    alt: "Showcasing the abandoned lake house area"
-    title: "The sinking house of the lake"
-    caption: "The Lake"
-  - url: /assets/images/TownScreenshot3.png
-    image_path: /assets/images/TownScreenshot3.png
-    alt: "Showcasing the churhc area in the world"
-    title: "The distant church from the forest"
-    caption: "The Church"
-  - url: /assets/images/TownScreenshot4.png
-    image_path: /assets/images/TownScreenshot4.png
-    alt: "Showcasing player getting a bonus for juggling"
-    title: "The visitor's center with a mysterious figure"
-    caption: "Visitor's Center"
-  - url: /assets/images/TownScreenshot5.png
-    image_path: /assets/images/TownScreenshot5.png
-    alt: "Showcasing the distant amusment park area"
-    title: "A distant amusement park"
-    caption: "The Funfair"
-  - url: /assets/images/TownScreenshot6.png
-    image_path: /assets/images/TownScreenshot6.png
-    alt: "Showcasing the pathed hillside"
-    title: "The hillside area with fencing"
-    caption: "The Hillside"
+  - url: /assets/images/RPSScreenshot1
+    image_path: /assets/images/RPSScreenshot1
+    alt: "Showcasing the art style"
+    title: "The player facing their opponent."
+    caption: "Gameplay 1"
+  - url: /assets/images/RPSScreenshot2
+    image_path: /assets/images/RPSScreenshot2
+    alt: "Showcasing some gameplay"
+    title: "The player selecting a few cards."
+    caption: "Gameplay 2"
+  - url: /assets/images/RPSScreenshot3
+    image_path: /assets/images/RPSScreenshot3
+    alt: "Showcasing some gameplay"
+    title: "The player using their item."
+    caption: "Gameplay 3"
+  - url: /assets/images/RPSScreenshot4
+    image_path: /assets/images/RPSScreenshot4
+    alt: "Showcasing some gameplay"
+    title: "The player viewing their backpack."
+    caption: "Gameplay 4"
+  - url: /assets/images/RPSScreenshot5
+    image_path: /assets/images/RPSScreenshot5
+    alt: "Showcasing some gameplay"
+    title: "The player winning."
+    caption: "Gameplay 5"
+  - url: /assets/images/RPSScreenshot6
+    image_path: /assets/images/RPSScreenshot6
+    alt: "Showcasing some gameplay"
+    title: "The player viewing their piggy bank"
+    caption: "Gameplay 6"
 
 ---
 **Origin:** Personal Prototype
