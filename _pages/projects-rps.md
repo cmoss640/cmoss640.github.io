@@ -8,33 +8,33 @@ sidebar:
     - projects
 gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/RPSScreenshot1
-    image_path: /assets/images/RPSScreenshot1
+  - url: /assets/images/RPSScreenshot1.png
+    image_path: /assets/images/RPSScreenshot1.png
     alt: "Showcasing the art style"
     title: "The player facing their opponent."
     caption: "Gameplay 1"
-  - url: /assets/images/RPSScreenshot2
-    image_path: /assets/images/RPSScreenshot2
+  - url: /assets/images/RPSScreenshot2.png
+    image_path: /assets/images/RPSScreenshot2.png
     alt: "Showcasing some gameplay"
     title: "The player selecting a few cards."
     caption: "Gameplay 2"
-  - url: /assets/images/RPSScreenshot3
-    image_path: /assets/images/RPSScreenshot3
+  - url: /assets/images/RPSScreenshot3.png
+    image_path: /assets/images/RPSScreenshot3.png
     alt: "Showcasing some gameplay"
     title: "The player using their item."
     caption: "Gameplay 3"
-  - url: /assets/images/RPSScreenshot4
-    image_path: /assets/images/RPSScreenshot4
+  - url: /assets/images/RPSScreenshot4.png
+    image_path: /assets/images/RPSScreenshot4.png
     alt: "Showcasing some gameplay"
     title: "The player viewing their backpack."
     caption: "Gameplay 4"
-  - url: /assets/images/RPSScreenshot5
-    image_path: /assets/images/RPSScreenshot5
+  - url: /assets/images/RPSScreenshot5.png
+    image_path: /assets/images/RPSScreenshot5.png
     alt: "Showcasing some gameplay"
     title: "The player winning."
     caption: "Gameplay 5"
-  - url: /assets/images/RPSScreenshot6
-    image_path: /assets/images/RPSScreenshot6
+  - url: /assets/images/RPSScreenshot6.png
+    image_path: /assets/images/RPSScreenshot6.png
     alt: "Showcasing some gameplay"
     title: "The player viewing their piggy bank"
     caption: "Gameplay 6"
