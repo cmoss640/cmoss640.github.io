@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Banner2.png
   actions:
     - label: "Download CV"
-      url: "file:///C:/Users/B01028030/Downloads/CV.pdf"
+      url: "assets/downloads/CV.pdf"
       target: "_blank"
 
 
