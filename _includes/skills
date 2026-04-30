@@ -16,6 +16,7 @@
             {% endfor %}
           </ul>
         {% endif %}
+        {% if skill.style%} {{ include skill.style }} {% endif %}
         {% if skill.text %}
           <p class="skill-card__text">{{ skill.text | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% endif %}
