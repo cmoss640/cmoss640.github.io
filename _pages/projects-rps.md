@@ -42,7 +42,6 @@ gallery_gameart:
 ---
 **Origin:** Personal Prototype
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
 This Rock Paper Scissors prototype was created in my own time to learn the fundamentals game development and the Godot engine. Play cards randomly drawn into your hand and guess the opponent's choice. Go all in by selecting more of one card type for a bigger reward or bigger loss, or play it safe and only choose one card. Use different items from your backpack to gain the upper hand and twist the rules. 
 
