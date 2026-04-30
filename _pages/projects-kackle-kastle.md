@@ -41,8 +41,7 @@ gallery_gameart:
 
 ---
 **Origin:** Ulster University Year 1 Semester 2
-{% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="zDQa0ubLK40" provider="youtube" %}
+{% include video id="grSDQENHljM" provider="youtube" %}
 **About this project:**\
 Kackle Kastle is a roguelike wave survival game where you must defend the kingdom's treasury from a a horde of villainous yet incompetent jesters. Collect a wide varietyy of weapons and strategically make use of their defensive or offensive capabilities to fight off the different jester variants. Survive 10 waves and defeat the final boss to free your kingdom from khaos.
 
