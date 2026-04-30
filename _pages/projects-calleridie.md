@@ -42,7 +42,6 @@ gallery_gameart:
 ---
 **Origin:** Ludum Dare 59
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
 Caller IDie is a game jam project created for Ludum Dare 59 "signal". It is a fast paced, intense 3D parkour game where you need to solve puzzles while outrunning and outwitting an endlessly pursuing agent. The Agent is controlled by an AI that adapts to how you traverse the cityscape, learning how you jump and predicting your movement to cut you off and create unexpected scenarios. 
 - **Try it out**
