@@ -42,7 +42,6 @@ gallery_gameart:
 ---
 **Origin:** Ulster University Year 1 Semester 1
 {% include gallery id="gallery_gameart" layout="third" thumb_height="145px" %}
-{% include video id="zDQa0ubLK40" provider="youtube" %}
 **About this project:**\
 Randal the Vandal was a project built in my first year of university. This game is a sidescrolling platformer, with a procedurally generated world woth plenty of objects to interact with. The player jumps from building to building, destroying physics based objects to build up their property damage value while being pursued by a murder of crows. Objects destroyed can drop additional hammer pickups, but the amount you have is finite, encouraging players to throw their hammers sparingly instead of throwing wildly. The player is encouraged to run fast due to their limited time, creating an engaging, fast paced gameplay loop.
 
