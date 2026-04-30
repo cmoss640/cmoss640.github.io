@@ -11,33 +11,33 @@ gallery_gameart:
   - url: /assets/images/CallerScreenshot1.png
     image_path: /assets/images/CallerScreenshot1.png
     alt: "Showcasing gameplay"
-    title: "Gameplay 1"
-    caption: "The Big City"
+    title: "The Agent leaping down from a building."
+    caption: "Gameplay 1"
   - url: /assets/images/CallerScreenshot2.png
     image_path: /assets/images/CallerScreenshot2.png
     alt: "Showcasing gameplay"
-    title: "Gameplay 2"
-    caption: "The Lake"
+    title: "The player using their burner phone."
+    caption: "Gameplay 2"
   - url: /assets/images/CallerScreenshot3.png
     image_path: /assets/images/CallerScreenshot3.png
     alt: "Showcasing gameplay"
-    title: "Gameplay 3"
-    caption: "The Church"
+    title: "The player using a button for a puzzle."
+    caption: "Gameplay 3"
   - url: /assets/images/CallerScreenshot4.png
     image_path: /assets/images/CallerScreenshot4.png
     alt: "Showcasing gameplay"
-    title: "Gameplay 4"
-    caption: "Visitor's Center"
+    title: "The player running across a rooftop."
+    caption: "Gameplay 4"
   - url: /assets/images/CallerScreenshot5.png
     image_path: /assets/images/CallerScreenshot5.png
     alt: "Showcasing gameplay"
-    title: "Gameplay 5"
-    caption: "The Funfair"
+    title: "The player escaping the Agent."
+    caption: "Gameplay 5"
   - url: /assets/images/CallerScreenshot6.png
     image_path: /assets/images/CallerScreenshot6.png
     alt: "Showcasing the pathed hillside"
-    title: "Gameplay 6"
-    caption: "The Hillside"
+    title: "The player doing more puzzles."
+    caption: "Gameplay 6"
 
 ---
 **Origin:** Ludum Dare 59
