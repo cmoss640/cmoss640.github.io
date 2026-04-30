@@ -22,7 +22,7 @@
         {% endif %}
         {% if skill.years %}
           <div class="skill-card__meta">
-            <span class="skill-card__meta-label">Experience</span>
+            <span class="skill-card__meta-label" style="color: black">Experience</span>
             <span class="skill-card__meta-value">{{ skill.years }} years</span>
           </div>
         {% elsif skill.level_label %}
